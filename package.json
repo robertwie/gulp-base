@@ -1,0 +1,23 @@
+{
+  "name": "glupbase",
+  "version": "1.0.0",
+  "description": "gulp rapid development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertwie/gulp-base.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass"
+  ],
+  "author": "Robert Wieduwilt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertwie/gulp-base/issues"
+  },
+  "homepage": "https://github.com/robertwie/gulp-base#readme"
+}
