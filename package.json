@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/robertwie/gulp-base/issues"
   },
-  "homepage": "https://github.com/robertwie/gulp-base#readme"
+  "homepage": "https://github.com/robertwie/gulp-base#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
